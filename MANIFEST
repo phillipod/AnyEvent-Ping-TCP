@@ -1,7 +1,8 @@
 Changes
+lib/AnyEvent/Ping/TCP.pm
 Makefile.PL
 MANIFEST
 README
 t/AnyEvent-Ping-TCP.t
-lib/AnyEvent/Ping/TCP.pm
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

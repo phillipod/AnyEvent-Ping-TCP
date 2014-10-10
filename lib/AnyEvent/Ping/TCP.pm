@@ -40,7 +40,7 @@ use base 'Exporter';
 
 our @EXPORT = qw( tcp_ping_syn tcp_ping_ack tcp_ping );
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 our %PingQueue = ();
 
